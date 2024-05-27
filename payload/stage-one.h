@@ -1,0 +1,1 @@
+char* __stage_one__ __attribute__((section(".ssv"))) = "hello";
