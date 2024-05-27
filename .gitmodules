@@ -1,0 +1,3 @@
+[submodule "vendor/libdasm"]
+	path = vendor/libdasm
+	url = https://github.com/axcheron/libdasm/
